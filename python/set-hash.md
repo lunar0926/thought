@@ -21,7 +21,7 @@ Set types:
 * 중복을 제거할 때
 * 교집합\(intersection\), 합집합\(union\), 차집합\(difference\), 대칭차집합\(symmetric difference\)과 같은 수학적 연산를 계산하는데 사용할 수 있다.
 
-### 집합 자료형 만들
+### 집합 자료형 만들기 
 
 ```text
 set(['a', 'b', 'c'])
