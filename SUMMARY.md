@@ -2,13 +2,13 @@
 
 * [Initial page](README.md)
 
-## 언어학
+## 언어학 <a id="linguistics"></a>
 
-* [Untitled](undefined/untitled.md)
+* [Untitled](linguistics/untitled.md)
 
-## 수학 <a id="undefined-1"></a>
+## 수학 <a id="math"></a>
 
-* [Untitled](undefined-1/untitled.md)
+* [Untitled](math/untitled.md)
 
 ## 운영체제 <a id="undefined-2"></a>
 
