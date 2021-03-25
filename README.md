@@ -1,1 +1,2 @@
-# thought
+# Initial page
+
