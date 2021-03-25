@@ -10,24 +10,29 @@
 
 * [Untitled](math/untitled.md)
 
-## 운영체제 <a id="undefined-2"></a>
+## python
 
-* [Untitled](undefined-2/untitled.md)
+* [목차](python/undefined.md)
+* [집합 자료형\(set\) \(hash개념 추가하기\)](python/set-hash.md)
 
-## 컴퓨터 구조 <a id="undefined-3"></a>
+## 운영체제 <a id="operating-system"></a>
 
-* [Untitled](undefined-3/untitled.md)
+* [Untitled](operating-system/untitled.md)
+
+## 컴퓨터 구조 <a id="computer-architecture"></a>
+
+* [Untitled](computer-architecture/untitled.md)
 
 ## 자료구조와 알고리즘 <a id="data-structure-and-algorithm"></a>
 
-* [자료구조](data-structure-and-algorithm/untitled.md)
+* [목차](data-structure-and-algorithm/untitled.md)
 * [트리\(구현, 시각적인 설명 추가하기\)](data-structure-and-algorithm/tree.md)
 
-## 네트워크 <a id="undefined-5"></a>
+## 네트워크 <a id="network"></a>
 
-* [Untitled](undefined-5/untitled.md)
+* [Untitled](network/untitled.md)
 
-## 생각 정리 <a id="undefined-6"></a>
+## 생각 정리 <a id="thoughts"></a>
 
-* [Untitled](undefined-6/untitled.md)
+* [Untitled](thoughts/untitled.md)
 
