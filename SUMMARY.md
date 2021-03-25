@@ -20,7 +20,8 @@
 
 ## 자료구조와 알고리즘 <a id="undefined-4"></a>
 
-* [Untitled](undefined-4/untitled.md)
+* [자료구조](undefined-4/untitled.md)
+* [트리\(구현, 시각적인 설명 추가하기\)](undefined-4/undefined.md)
 
 ## 네트워크 <a id="undefined-5"></a>
 
