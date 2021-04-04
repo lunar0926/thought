@@ -28,7 +28,7 @@
 
 * [목차](data-structure-and-algorithm/untitled.md)
 * [트리\(구현, 시각적인 설명 추가하기\)](data-structure-and-algorithm/tree.md)
-* [최단 경로](data-structure-and-algorithm/undefined.md)
+* [최단 경로\(다익스트라 동작 원리 추가하기\)](data-structure-and-algorithm/undefined.md)
 * [다익스트라 알고리즘 구현](data-structure-and-algorithm/undefined-1.md)
 
 ## 네트워크 <a id="network"></a>
