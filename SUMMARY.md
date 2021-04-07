@@ -18,7 +18,7 @@
 
 ## 운영체제 <a id="operating-system"></a>
 
-* [Chapter 1컴퓨터 시스템 개요](operating-system/chapter1.md)
+* [Chapter 1 컴퓨터 시스템 개요](operating-system/chapter1.md)
 
 ## 컴퓨터 구조 <a id="computer-architecture"></a>
 

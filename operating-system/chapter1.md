@@ -2,7 +2,7 @@
 description: 운영체제 흐름 정리
 ---
 
-# Chapter 1컴퓨터 시스템 개요
+# Chapter 1 컴퓨터 시스템 개요
 
 ## 컴퓨터 시스템 개요
 
