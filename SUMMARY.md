@@ -2,14 +2,16 @@
 
 * [Initial page](README.md)
 
+## 생각 정리 <a id="thoughts"></a>
+
+* [원점에서 시작하기](thoughts/undefined.md)
+
 ## 언어학 <a id="linguistics"></a>
 
-* [목차](linguistics/index.md)
 * [형태론 - 어절과 형태소](linguistics/morphology1.md)
 
 ## python
 
-* [목차](python/index.md)
 * [집합 자료형\(set\) \(hash개념 추가하기\)](python/set-hash.md)
 
 ## 운영체제 <a id="operating-system"></a>
@@ -19,12 +21,9 @@
 
 ## 자료구조와 알고리즘 <a id="data-structure-and-algorithm"></a>
 
-* [목차](data-structure-and-algorithm/index.md)
 * [트리\(구현, 시각적인 설명 추가하기\)](data-structure-and-algorithm/tree.md)
 * [최단 경로](data-structure-and-algorithm/shortest-path.md)
 * [다익스트라 알고리즘 구현 이해하기](data-structure-and-algorithm/dijkstra.md)
-
-## 생각 정리 <a id="thoughts"></a>
 
 ## 웹 프로그래밍 <a id="web"></a>
 
