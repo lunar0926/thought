@@ -2,7 +2,9 @@
 
 나를 설명해줄 수 있는 방법은 많다. 블로그도 있고 영상도 있지만 나는 챗봇을 만들어서 내가 직접 나를 설명하지 않아도 대신 설명할 수 있게 만들고 싶다. 챗봇은 웹사이트에 구현하려고 한다.
 
-[딥러닝과 자연어 처리 학습을 위해 참고하면 좋은 자료들을 저장하는 자료소](https://laptrinhx.com/dibleoning-gwa-jayeon-eo-cheoli-hagseub-eul-wihae-chamgohamyeon-joh-eun-jalyodeul-eul-jeojanghaneun-jalyoso-2275936253/)
+참고할 사이
+
+[https://github.com/Huffon/NLP101](https://github.com/Huffon/NLP101)
 
 필요한 지식은 계속해서 추가되거나 수정되겠지만 기본적으로는
 
